@@ -17,11 +17,11 @@ h1 {
 }
 .sidebar {
     position: absolute;
-    padding-right: 345px;
+    width: 25%;
 }
 .main {
     position: absolute;
-    margin-left: 200px;
+    margin-left: 35%;
 }
 ul.dont {
     list-style: none;
